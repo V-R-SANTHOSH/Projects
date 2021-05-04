@@ -1,9 +1,0 @@
-
-Current project: 
-=================
-
-
-
-
-Completed projects:
-====================
