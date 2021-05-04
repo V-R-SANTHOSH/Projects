@@ -1,9 +1,11 @@
 
 A showcase of projects done by me 
 
-My current project: 
+Current project: 
+=================
 
 
 
 
 Completed projects:
+====================
