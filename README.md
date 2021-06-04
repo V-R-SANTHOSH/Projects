@@ -1,7 +1,7 @@
 
 # Current project 
 
-#### 1) Credit risk evaluation in P2P lending business model.
+1 Credit risk evaluation in P2P lending business model.
 --------------------------------------------------------------
 
 
